@@ -1,4 +1,4 @@
-## Videos to Subtitles
+# Videos to Subtitles
 
 ## Dependencies
 
